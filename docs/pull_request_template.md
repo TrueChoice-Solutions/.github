@@ -9,7 +9,8 @@ What changes must others be aware of that will impact daily usage of this area?
 # Examples
 Update in XML key, update in naming of a command/flag, sprite updates
 
-# Updates: What is being changed? 
+# Updates
+What is being changed? 
 
 (Medium to low level) In bullet points, what changes does the pull request contain? 
 
