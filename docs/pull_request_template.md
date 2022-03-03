@@ -6,8 +6,7 @@ This should be a TL;DR version. Ensure that there is documentation for the conte
 # Breaking Changes
 What changes must others be aware of that will impact daily usage of this area?
 
-# Examples
-Update in XML key, update in naming of a command/flag, sprite updates
+Examples: Update in XML key, update in naming of a command/flag, sprite updates
 
 # Updates
 What is being changed? 
